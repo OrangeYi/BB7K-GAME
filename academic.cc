@@ -45,7 +45,7 @@ void academic::improve(string cmd){
         cin >> continue1;
 
     }
-    if (cmd == "sell" ) {
+    if (cmd == "sell") {
         numimp -=1;
         owner->setbalance(impcost*0.5);
         owner->settotalAsset(-impcost);
