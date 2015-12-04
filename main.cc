@@ -28,7 +28,7 @@ bool load(ifstream& in);
 bool test = false;
 
 int main(int argc, char* argv[]) {
-    //donghua();
+    donghua();
     if(argc <= 1){
         startgame1();
         return 0;
