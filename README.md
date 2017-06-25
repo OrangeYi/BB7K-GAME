@@ -1,5 +1,5 @@
 # BB7K-GAME
 MONOPOLY OF UNIVERSITY OF WATERLOO
 
-Just do not copy!
-make and ./bb7k
+1.make
+2. ./bb7k
